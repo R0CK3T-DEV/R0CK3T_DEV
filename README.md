@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EzecraftingYT (or Ezequiel Zapata)!
+- 👋 Hi, I’m @Ez3DEV (or Ezequiel Zapata)!
 - 👀 I’m interested in making applications, games and websites!
 - 🌱 I’m currently learning C++!
 - 💞️ I’m not looking to collaborate on anything yet.
