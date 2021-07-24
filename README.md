@@ -26,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- English (Conversational)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- And more!<br>
 
+If you want to see all my social media accounts, head over to: https://solo.to/ez3
+
 # Other things about me
 My GitHub Stats!<br>
 [![Ez3DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez3dev)](https://github.com/ez3dev)
