@@ -5,7 +5,7 @@
 🔭 I’m currently working on a social media (which I cannot reveal anything yet)<br><br>
 🌱 I’m currently learning C!<br><br>
 👯 I’m not looking to collaborate on anything for now!<br><br>
-🤔 I’m not looking for help with anyting for now!<br><br>
+🤔 I’m not looking for help with anything for now!<br><br>
 📫 If you want to reach out to me, here are some ways to contact me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Discord: Ez3DEV#1839<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Email: ezequielzapata2015@hotmail.com<br>
