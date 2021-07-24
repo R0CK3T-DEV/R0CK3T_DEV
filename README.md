@@ -1,11 +1,38 @@
-- 👋 Hi, I’m @Ez3DEV (or Ezequiel Zapata)!
-- 👀 I’m interested in making applications, games and websites!
-- 🌱 I’m currently learning C++!
-- 💞️ I’m not looking to collaborate on anything yet.
-- 📫 If you want to reach out to me, here are some ways to contact me:
--   Discord: Ez3DEV#1839
--   Email: ezequielzapata2015@hotmail.com
--   Gmail: razorzapata@gmail.com
+# Welcome to my user page!
+
+👋 Hi, I’m Ezequiel Zapata aka Ez3DEV.<br><br>
+👀 I’m interested in making applications, games and websites!<br><br>
+🔭 I’m currently working on a social media (which I cannot reveal anything yet)<br><br>
+🌱 I’m currently learning C!<br><br>
+👯 I’m not looking to collaborate on anything for now!<br><br>
+🤔 I’m not looking for help with anyting for now!<br><br>
+📫 If you want to reach out to me, here are some ways to contact me:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Discord: Ez3DEV#1839<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Email: ezequielzapata2015@hotmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Gmail: razorzapata@gmail.com<br><br>
+😄 Pronouns: He/Him<br>⚡ Fun fact: I like to learn a lot, that's why I know these languages, some of them more, some of them less, in no particular order:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- C++<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- C#<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- VB.NET<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- HTML<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- PHP<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- JS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- NodeJS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Haxe (not a lot)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- C (almost nothing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Spanish (Native)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- English (Conversational)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- And more!<br>
+
+# Other things about me
+My GitHub Stats!<br>
+[![Ez3DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez3dev)](https://github.com/ez3dev)
+
+
+My Top languages in my public repositories!<br>
+[![Top Languages in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=ez3dev)](https://github.com/ez3dev)
 
 <!---
 EzecraftingYT/EzecraftingYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
