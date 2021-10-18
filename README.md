@@ -2,8 +2,8 @@
 
 👋 Hi, I’m Ezequiel Zapata aka Ez3DEV.<br><br>
 👀 I’m interested in making applications, games and websites!<br><br>
-🔭 I’m currently working on a social media (which I cannot reveal anything yet)<br><br>
-🌱 I’m currently learning C!<br><br>
+🔭 I’m currently working on an update for my FNF mod "Vs Ryan"! (which I cannot reveal anything about it <i>yet</i>)<br><br>
+🌱 I’m currently learning Haxe/HaxeFlixel while making FNF mods!<br><br>
 👯 I’m not looking to collaborate on anything for now!<br><br>
 🤔 I’m not looking for help with anything for now!<br><br>
 📫 If you want to reach out to me, here are some ways to contact me:<br>
@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- PHP<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- JS<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- NodeJS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Haxe (not a lot)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Haxe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- C (almost nothing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Spanish (Native)<br>
