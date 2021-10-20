@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Discord: Ez3DEV#1839<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Email: ezequielzapata2015@hotmail.com<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Gmail: razorzapata@gmail.com<br><br>
-😄 Pronouns: He/Him<br>⚡ Fun fact: I like to learn a lot, that's why I know these languages, some of them more, some of them less, in no particular order:<br>
+😄 Pronouns: He/Him, They/Them<br>⚡ Fun fact: I like to learn a lot, that's why I know these languages, some of them more, some of them less, in no particular order:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- C++<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- C#<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- VB.NET<br>
