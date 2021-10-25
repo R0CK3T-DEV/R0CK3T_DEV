@@ -1,6 +1,6 @@
 # Welcome to my user page!
 
-👋 Hi, I’m Ezequiel Zapata aka Ez3DEV.<br><br>
+👋 Hi, I’m Ezequiel Zapata aka Ez3DEV. I go by He/They :D<br><br>
 👀 I’m interested in making applications, games and websites!<br><br>
 🔭 I’m currently working on an update for my FNF mod "Vs Ryan"! (which I cannot reveal anything about it <i>yet</i>)<br><br>
 🌱 I’m currently learning Haxe/HaxeFlixel while making FNF mods!<br><br>
