@@ -1,3 +1,6 @@
+gotta update this sometime soon
+
+<!---
 # Welcome to my user page!
 
 👋 Hi, I’m Ezequiel Zapata aka Ez3DEV. I go by He/They :D<br><br>
@@ -40,3 +43,4 @@ My Top languages in my public repositories!<br>
 EzecraftingYT/EzecraftingYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-->
